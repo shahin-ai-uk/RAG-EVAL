@@ -18,7 +18,7 @@ Unlike standard RAG tutorials, this project implements an **Automated Evaluation
 
 ## Tech Stack
 * **Orchestration:** LangChain
-* **LLM Engine:** Groq API (Llama-3-70b-8192)
+* **LLM Engine:** Groq API (llama-3.3-70b-versatile)
 * **Vector Database:** ChromaDB (Local)
 * **Embeddings:** HuggingFace (`sentence-transformers/all-MiniLM-L6-v2`)
 * **Document Processing:** PyPDFLoader
